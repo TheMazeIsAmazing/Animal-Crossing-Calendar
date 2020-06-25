@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Animal Crossing Verjaardags Kalendar
 X-WR-TIMEZONE:UTC
-X-WR-CALDESC:De enige echte online calendar voor alle verjaardagen van je fav
+X-WR-CALDESC:De enige echte online kalendar voor alle verjaardagen van je fav
  oriete Animal Crossing vrienden!
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20010414
