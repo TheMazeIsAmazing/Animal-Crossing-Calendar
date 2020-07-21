@@ -28,6 +28,7 @@ This is a big update!
   - Time zone Birthday Calendar en_GB: UTC → London
   - This version adds full support for French!
 # v0.4
+- This version adds full support for French!
 - This version adds a changelog in the .github folder
 - Small patches including:
   - Resett's Birthday → Resetti's Birthday in German, Dutch and English Calendar files
