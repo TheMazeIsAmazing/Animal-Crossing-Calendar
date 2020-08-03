@@ -14,7 +14,7 @@ Changed names of files to match the language codes used in scripts.
 Small changes about the public and private 'licences'.
 # v0.2.1.1
 Typo fix in Birthdays nl_NL
-# v0.3
+# v0.3.
 This is a big update!
 
 - Removed Translated README.md files
@@ -27,7 +27,7 @@ This is a big update!
   - Time zone Easter Egg Calendar de_DE: Amsterdam → Berlin
   - Time zone Birthday Calendar en_GB: UTC → London
   - This version adds full support for French!
-# v0.3
+# v0.3.1
 - Added Fireworks Show in events calendar
 # v0.4
 - This version adds full support for French!
