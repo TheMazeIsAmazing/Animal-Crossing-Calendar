@@ -14,7 +14,7 @@ Changed names of files to match the language codes used in scripts.
 Small changes about the public and private 'licences'.
 # v0.2.1.1
 Typo fix in Birthdays nl_NL
-# v0.3.
+# v0.3
 This is a big update!
 
 - Removed Translated README.md files
