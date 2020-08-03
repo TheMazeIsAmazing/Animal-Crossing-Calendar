@@ -34,3 +34,4 @@ This is a big update!
 - This version adds a changelog in the .github folder
 - Small patches including:
   - Resett's Birthday → Resetti's Birthday in German, Dutch and English Calendar files
+  - Kabuk's Birthday → Kabuki's Birthday in Dutch and English Calendar files
