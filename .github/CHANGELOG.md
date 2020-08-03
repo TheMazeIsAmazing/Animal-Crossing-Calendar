@@ -27,6 +27,8 @@ This is a big update!
   - Time zone Easter Egg Calendar de_DE: Amsterdam → Berlin
   - Time zone Birthday Calendar en_GB: UTC → London
   - This version adds full support for French!
+# v0.3
+- Added Fireworks Show in events calendar
 # v0.4
 - This version adds full support for French!
 - This version adds a changelog in the .github folder
