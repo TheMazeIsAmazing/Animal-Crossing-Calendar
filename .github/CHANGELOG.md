@@ -30,7 +30,8 @@ This is a big update!
 # v0.3.1
 - Added Fireworks Show in events calendar
 # v0.4
-- This version adds full support for French!
+- This version adds support for French!
+  - Small disclaimer: Mushrooming and Cherry Blossom Season are translated with Google Translate, no official translations have been found.
 - This version adds a changelog in the .github folder
 - Small patches including:
   - Resett's Birthday → Resetti's Birthday in German, Dutch and English Calendar files
