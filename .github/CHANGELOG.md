@@ -35,3 +35,4 @@ This is a big update!
 - Small patches including:
   - Resett's Birthday → Resetti's Birthday in German, Dutch and English Calendar files
   - Kabuk's Birthday → Kabuki's Birthday in Dutch and English Calendar files
+  - Lomeus's Geburtsdag → Lomeus' Geburtsdag in German Calendar files
