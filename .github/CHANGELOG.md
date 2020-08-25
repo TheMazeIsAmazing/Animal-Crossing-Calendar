@@ -1,6 +1,6 @@
 # v0.1
 The first version of the Animal Crossing Calendar is life on GitHub!
-This version includes some changes to the already published calendar such as the inclusion of New Horizons characters such as Orville and C.J. and we dedicated an .ics file to the Southern Hemisphere because of the differences in events such as Bug Offs and The Autumn/Fall Leaf festival instead of Spring Leaf.# v0.1
+This version includes some changes to the already published calendar such as the inclusion of New Horizons characters such as Orville and C.J. and we dedicated an .ics file to the Southern Hemisphere because of the differences in events such as Bug Offs and the muschrooming season instead being shown as cherryblossom.
 # v0.2
 - Southern and Northern Events have now been merged in one .ics file.
 - Added support for Dutch
@@ -43,3 +43,4 @@ This is a big update!
 - Description added: Easter egg and Event fr_FR
 - Small typo fixes in Egg Calendar fr_FR
 - Egg Calendar fix in all languages: Australia recieved AC: Cityfolk → AC: Let's go to the city
+- Mushrooming Season in Dutch, French and German had an official translation after all... So it has been added!
