@@ -42,5 +42,4 @@ This is a big update!
 - Time zone Easter Egg Calendar fr_FR: UTC → Paris
 - Description added: Easter egg and Event fr_FR
 - Small typo fixes in Egg Calendar fr_FR
-- Egg Calendar fix in all languages: Australia recieved AC: Cityfolk → AC: Let's go to the city
-- Mushrooming Season in Dutch, French and German had an official translation after all... So it has been added!
+- Egg Calendar fix in all languages: Australia received AC: Cityfolk → AC: Let's go to the city
