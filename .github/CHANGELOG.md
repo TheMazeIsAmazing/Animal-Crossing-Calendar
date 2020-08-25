@@ -38,3 +38,8 @@ This is a big update!
   - Kabuk's Birthday → Kabuki's Birthday in Dutch and English Calendar files
   - Lomeus's Geburtsdag → Lomeus' Geburtsdag in German Calendar files
   - Animal Crossing Event Calendar-de_DE.ics.ics filename fix → Animal Crossing Event Calendar-de_DE.ics
+ # v0.4.0.1
+- Time zone Easter Egg Calendar fr_FR: UTC → Paris
+- Description added: Easter egg and Event fr_FR
+- Small typo fixes in Egg Calendar fr_FR
+- Egg Calendar fix in all languages: Australia recieved AC: Cityfolk → AC: Let's go to the city
