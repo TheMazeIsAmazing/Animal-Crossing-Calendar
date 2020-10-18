@@ -46,4 +46,4 @@ This is a big update!
 - Added Halloween Show in events calendar
 - Added many new easter eggs. (Tetris 99 event + version updates v1.1 to v1.5)
 - Added a all in one .js file
-- Fixed Mushrooming season translation error: in Dutch, German and French. "Pine cone season." Isn't the same as Mushrooming season
+- Removed Mushrooming season for the Maple Leaf festival.
