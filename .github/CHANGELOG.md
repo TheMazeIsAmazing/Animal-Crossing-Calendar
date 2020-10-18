@@ -43,7 +43,11 @@ This is a big update!
 - Small typo fixes in Egg Calendar fr_FR
 - Egg Calendar fix in all languages: Australia received AC: Cityfolk → AC: Let's go to the city
 # v0.4.1
-- Added Halloween Show in events calendar
+- Added Halloween in events calendar
 - Added many new easter eggs. (Tetris 99 event + version updates v1.1 to v1.5)
 - Added a all in one .js file
-- Removed Mushrooming season for the Maple Leaf festival.
+- Replaced Mushrooming season with the Maple Leaf Season.
+- Small fixes including:
+  - Lentebloesem Evenement → Lentebloesem Seizoen in nl_NL
+  - Kirschbäume → Kirschbäume Saison in de_DE
+  - Small fixes regarding timezones
