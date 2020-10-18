@@ -26,7 +26,6 @@ This is a big update!
   - Now 'verjaardag' is capitalized in the nl_NL calendar e.g. Renée's verjaardag → Renée's Verjaardag
   - Time zone Easter Egg Calendar de_DE: Amsterdam → Berlin
   - Time zone Birthday Calendar en_GB: UTC → London
-  - This version adds full support for French!
 # v0.3.1
 - Added Fireworks Show in events calendar
 # v0.4
