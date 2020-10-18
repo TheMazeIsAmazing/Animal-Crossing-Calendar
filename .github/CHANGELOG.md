@@ -43,3 +43,8 @@ This is a big update!
 - Description added: Easter egg and Event fr_FR
 - Small typo fixes in Egg Calendar fr_FR
 - Egg Calendar fix in all languages: Australia received AC: Cityfolk → AC: Let's go to the city
+# v0.4.1
+- Added Halloween Show in events calendar
+- Added many new easter eggs. (Tetris 99 event + version updates v1.1 to v1.5)
+- Added a all in one .js file
+- Fixed Mushrooming season translation error: in Dutch, German and French. "Pine cone season." Isn't the same as Mushrooming season
