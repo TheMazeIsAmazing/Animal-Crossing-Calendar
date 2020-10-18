@@ -45,7 +45,7 @@ This is a big update!
 # v0.4.1
 - Added Halloween in events calendar
 - Added many new easter eggs. (Tetris 99 event + version updates v1.1 to v1.5)
-- Added a all in one .js file
+- Added an 'all in one' .js file
 - Replaced Mushrooming season with the Maple Leaf Season.
 - Small fixes including:
   - Lentebloesem Evenement → Lentebloesem Seizoen in nl_NL
