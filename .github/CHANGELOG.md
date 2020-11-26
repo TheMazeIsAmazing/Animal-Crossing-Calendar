@@ -51,7 +51,7 @@ This is a big update!
   - Lentebloesem Evenement → Lentebloesem Seizoen in nl_NL
   - Kirschbäume → Kirschbäume Saison in de_DE
   - Small fixes regarding timezones
-  # v0.4.1.1
+# v0.4.1.1
 - Added Toy + Turkey Day
 - Added many easter egg. Version updates v1.6
 - Changed events: May Day Event → May Day and simulair
