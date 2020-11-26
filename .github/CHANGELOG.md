@@ -55,3 +55,5 @@ This is a big update!
 - Added Toy + Turkey Day
 - Added Easter egg. Version update v1.6
 - Changed events: May Day Event → May Day and similar
+# v0.4.1.2
+- typo fix in changelog
