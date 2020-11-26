@@ -53,5 +53,5 @@ This is a big update!
   - Small fixes regarding timezones
 # v0.4.1.1
 - Added Toy + Turkey Day
-- Added easter egg. Version update v1.6
-- Changed events: May Day Event → May Day and simulair
+- Added Easter egg. Version update v1.6
+- Changed events: May Day Event → May Day and similar
