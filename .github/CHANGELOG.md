@@ -57,3 +57,8 @@ This is a big update!
 - Changed events: May Day Event → May Day and similar
 # v0.4.1.2
 - typo fix in readme.md
+# v0.5
+- Added Easter egg. Version update v1.7 to 1.9
+- Localization error fixed in de_DE, Kiki's Geburtstag → Kikis Geburtstag
+- Added New Year's Eve + Festivale Events (The Festivale repeats at different times every year, added until 2027)
+- Added Sanrio Characters
