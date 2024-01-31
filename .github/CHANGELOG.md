@@ -62,3 +62,5 @@ This is a big update!
 - Localization error fixed in de_DE, Kiki's Geburtstag → Kikis Geburtstag
 - Added New Year's Eve + Festivale Events (The Festivale repeats at different times every year, added until 2027)
 - Added Sanrio Characters
+# v0.5.1
+- Removed the 'all in one' .js file
